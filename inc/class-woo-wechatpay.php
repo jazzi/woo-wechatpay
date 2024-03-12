@@ -114,6 +114,7 @@ class Woo_WechatPay {
 
 		$core_plugin_data       = get_plugin_data( WP_WEIXIN_PLUGIN_FILE );
 		$plugin_data            = get_plugin_data( WOO_WECHATPAY_PLUGIN_FILE );
+
 		$core_version           = $core_plugin_data['Version'];
 		$current_version        = $plugin_data['Version'];
 		self::$core_min_version = defined('WP_WEIXIN_PLUGIN_FILE') ? $plugin_data[ WP_Weixin::VERSION_REQUIRED_HEADER ] : 0;
