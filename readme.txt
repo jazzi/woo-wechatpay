@@ -2,8 +2,8 @@
 Contributors: frogerme
 Tags: wechat, wechatpay, payments, wechat payments, weixin, 微信, 微信支付
 Requires at least: 4.9.5
-Tested up to: 5.4.1
-Stable tag: trunk
+Tested up to: 6.4.3
+Stable tag: 1.3.16
 Requires PHP: 7.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -75,6 +75,10 @@ This section describes how to install the plugin and get it working.
 5. The WeChat Pay settings added to the WP Weixin settings page.
 
 == Changelog ==
+
+= 1.3.16 = 
+* Remove WooCommerce compatbility tag (reason: irrelevant)
+* WordPress tested up to: 6.4.3
 
 = 1.3.15 =
 * Commit to ensure compatibility until WP Weixin 1.4

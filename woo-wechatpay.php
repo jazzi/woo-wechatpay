@@ -3,12 +3,11 @@
 Plugin Name: Payment gateway for WooCommerce - Woo WeChatPay
 Plugin URI: https://github.com/froger-me/woo-wechatpay
 Description: Integrate Woocommerce with WeChat Pay.
-Version: 1.3.15
+Version: 1.3.16
 Author: Alexandre Froger
 Author URI: https://froger.me
 Text Domain: woo-wechatpay
 Domain Path: /languages
-WC tested up to: 4.0.0
 WP Weixin minimum required version: 1.3.10
 WP Weixin tested up to: 1.4
 */
